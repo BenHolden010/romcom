@@ -7,8 +7,11 @@ Alice and myself built a web page that is designed to display random romcom cove
 
 ### Installation Instructions:
 
-1. git a local copy of the romcom repository on their computer. 
-2. open the repository using the terminal and download the live view so they can interact with the web page.
+1. Fork and clone this repo.
+2. Type `cd RomCom` to move into the root directory
+3. Run `code .` to open vs code to access the files
+4. Run `open index.html` to view the web page
+
 
 ### Preview of App:
 
@@ -16,19 +19,18 @@ Alice and myself built a web page that is designed to display random romcom cove
 
 ### Context:
 
-we spent 30 hours on this project. we are 2 weeks into mod 1 at turing!
+we spent 30 hours on this project. we are 2 weeks into mod 1 at turing.
 
 ### Contributors:
 
-https://github.com/BenHolden010
-https://github.com/aliceabarca
+Ben Holden, Alice Abarca
 
 ### Learning Goals:
 
-the goals of this project were to create a functional web application that enables users to make and save Romcom covers. we worked wit Visiual studio, HTML, CSS, Javascript, Github.
+The goals of this project were to create a functional web application that enable users to make and save Romcom covers. We worked with Visiual studio, HTML, CSS, Javascript, Github.
 
 ### Wins + Challenges:
 
-wins - making the pages change and buttons work and using a rondomizer!
+Wins - making the pages change and buttons work and using a rondomizer!
 
-challenges - saving the covers, merging on github. we overcame these challenges by utilizing our notes and google and mdn and our networks.
+Challenges - saving the covers, merging on github. we overcame these challenges by utilizing our notes and using google and mozilla documents and our internal networks.
